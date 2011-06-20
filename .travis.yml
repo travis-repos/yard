@@ -35,3 +35,5 @@ env: "CI=1 SUITE=1 "
 # Disable email notifications
 #notifications:
 #  disabled: true
+notifications:
+  disabled: true
